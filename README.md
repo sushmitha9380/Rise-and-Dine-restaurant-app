@@ -59,9 +59,11 @@ To run the frontend project locally:
 
 
 ## Contact
+*For any questions or suggestions, please contact:*
 
-Sushmitha
 
-Email:sushmithars5992@gmail.com
+Sushmitha R S
 
-github:sushmitha9380
+Email: sushmithars5992@gmail.com
+
+Github: sushmitha9380
