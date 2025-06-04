@@ -1,18 +1,18 @@
 
-# 🍽️ Rise-and-Dine Restaurant App 
+#  Rise-and-Dine Restaurant App 
 
 The **Rise-and-Dine** Restaurant App is a responsive and modern web application built using **HTML**, **CSS**, **JavaScript**, and **ReactJS**. This is the frontend part of the project that focuses on delivering an interactive and engaging user experience for browsing menus, booking reservations, and learning about the restaurant.
 
-## ✨ Features
+##  Features
 
-- 🧭 **Navigation Bar** – Easily navigate between sections of the app like Home, Menu, Reservations, and Contact.
-- 📋 **Dynamic Menu Display** – View categorized restaurant menu items.
-- 📆 **Reservation Form** – Book a table directly through the app.
-- 👨‍🍳 **Hero Section** – Eye-catching banner highlighting the brand and food.
-- 💬 **Testimonials Section** – Customer feedback carousel or list.
-- 📞 **Footer with Contact Info** – Includes social media links and contact details.
+-  **Navigation Bar** – Easily navigate between sections of the app like Home, Menu, Reservations, and Contact.
+-  **Dynamic Menu Display** – View categorized restaurant menu items.
+-  **Reservation Form** – Book a table directly through the app.
+-  **Hero Section** – Eye-catching banner highlighting the brand and food.
+-  **Testimonials Section** – Customer feedback carousel or list.
+-  **Footer with Contact Info** – Includes social media links and contact details.
 
-## 🧱 Components Overview
+##  Components Overview
 
 This project uses a component-based architecture with React. Some core components include:
 
@@ -25,14 +25,14 @@ This project uses a component-based architecture with React. Some core component
 | `HeroSection.jsx`   | Main banner area with call-to-action                         |
 | `Testimonials.jsx`  | Customer feedback and reviews                                |
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - ReactJS (Functional Components, JSX)
 - HTML5 & CSS3
 - JavaScript (ES6+)
 - Responsive Design
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run the frontend project locally:
 
