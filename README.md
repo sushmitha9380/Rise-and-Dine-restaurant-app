@@ -1,5 +1,5 @@
 
-# 🍽️ Rise-and-Dine Restaurant App (Frontend)
+# 🍽️ Rise-and-Dine Restaurant App 
 
 The **Rise-and-Dine** Restaurant App is a responsive and modern web application built using **HTML**, **CSS**, **JavaScript**, and **ReactJS**. This is the frontend part of the project that focuses on delivering an interactive and engaging user experience for browsing menus, booking reservations, and learning about the restaurant.
 
